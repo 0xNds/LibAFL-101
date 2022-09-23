@@ -5,4 +5,4 @@ edition = "2021"
 build = "build.rs"
 
 [dependencies]
-libafl = "0.7.1"
+libafl = "0.6.1"

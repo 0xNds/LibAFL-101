@@ -11,3 +11,5 @@ Cargo.lock
 
 fuzzing-101-solutions/exercise-1/xpdf
 fuzzing-101-solutions/target
+fuzzing-101-solutions/.cur_input
+fuzzing-101-solutions/.cur_input.txt
